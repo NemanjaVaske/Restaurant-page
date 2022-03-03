@@ -1,1 +1,1 @@
-console.log("hello");
+(()=>{"use strict";!function(){const t=document.getElementById("content"),e=document.createElement("div");e.classList.add("navbar");const n=document.createElement("span"),a=document.createElement("span"),d=document.createElement("span");n.classList.add("navbar-home"),a.classList.add("navbar-menu"),d.classList.add("navbar-contact"),n.textContent="Home",a.textContent="Menu",d.textContent="Contact",e.appendChild(n),e.appendChild(a),e.appendChild(d),t.appendChild(e)}()})();
