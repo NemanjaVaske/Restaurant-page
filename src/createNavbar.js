@@ -20,4 +20,4 @@ function createNavbar (){
     content.appendChild(navbar)
 }
 
-export {createNavbar}
+export { createNavbar };
