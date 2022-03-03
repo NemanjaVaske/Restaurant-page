@@ -39,3 +39,18 @@ body{
     font-size: 22px;
     color: whitesmoke;
 }
+.menu-window{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 80px)
+}
+.menu-window>h1{
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+.menu-window>span{
+    font-size: 22px;
+    color: whitesmoke;
+}
