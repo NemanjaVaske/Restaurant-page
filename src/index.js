@@ -1,1 +1,3 @@
-console.log("hello")
+import {createNavbar} from './createNavbar'
+
+createNavbar();
